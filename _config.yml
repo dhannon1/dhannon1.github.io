@@ -18,7 +18,7 @@ title: "Konrad Anand"
 email: k.anand@qmul.ac.uk
 name: "Konrad Anand"
 description: >- # this means to ignore newlines until "baseurl:"
-  Matt Grenander Personal Site
+  Konrad Anand Personal Site
 # twitter_username: username
 # github_username: mgrenander
 minimal_mistakes_skin: default
@@ -71,13 +71,13 @@ author:
       url: "mailto:k.anand@qmul.ac.uk"
 #    - label: " CV [Updated Nov. 2022]"
 #      icon: "fas fa-book-open"
-#      url: "/assets/MattGrenanderCV.pdf"
+#      url: "/assets/KonradAnand.pdf"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/mgrenander"
+#      url: "https://github.com/konradanand"
 #    - label: "LinkedIn"
 #      icon: "fab fa-fw fa-linkedin"
-#      url: "https://www.linkedin.com/in/matt-grenander-9a005098/"
+#      url: "https://www.linkedin.com/in//"
 
 defaults:
   # _posts
