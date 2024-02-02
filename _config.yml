@@ -81,6 +81,12 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/dwhannon96"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-googlescholar"
+      url: "https://scholar.google.com/citations?user=dUviGEIAAAAJ&hl=en"
+    - label: "Orchid"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0003-3331-7859"
 
 defaults:
   # _posts
