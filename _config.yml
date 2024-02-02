@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Konrad Anand"
-email: k.anand@qmul.ac.uk
-name: "Konrad Anand"
+title: "David Hannon"
+email: d.hannon@qmul.ac.uk
+name: "David Hannon"
 description: >- # this means to ignore newlines until "baseurl:"
-  Konrad Anand Personal Site
-# twitter_username: username
-# github_username: mgrenander
+  David Hannon Personal Site
+# twitter_username: dwhannon96
+# github_username: dhannon1
 minimal_mistakes_skin: default
 search: false
 
@@ -68,16 +68,16 @@ author:
   links:
     - label: " Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:k.anand@qmul.ac.uk"
+      url: "mailto:d.hannon1@qmul.ac.uk"
     - label: " CV [Updated Jan. 2024]"
       icon: "fas fa-book-open"
-      url: "/assets/CV_KonradAnand.pdf"
+      url: "/assets/CV_DavidHannon.pdf"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/konradanand"
+#      url: "https://github.com/dhannon1"
 #    - label: "LinkedIn"
 #      icon: "fab fa-fw fa-linkedin"
-#      url: "https://www.linkedin.com/in//"
+#      url: "https://www.linkedin.com/in/david-hannon-82391118a/"
 
 defaults:
   # _posts
