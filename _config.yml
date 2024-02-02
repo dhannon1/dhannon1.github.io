@@ -72,12 +72,12 @@ author:
     - label: " CV [Updated Jan. 2024]"
       icon: "fas fa-book-open"
       url: "/assets/CV_DavidHannon.pdf"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dhannon1"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/david-hannon-82391118a/"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/dhannon1"
+    #- label: "LinkedIn"
+    #  icon: "fab fa-fw fa-linkedin"
+     # url: "https://www.linkedin.com/in/david-hannon-82391118a/"
 
 defaults:
   # _posts
