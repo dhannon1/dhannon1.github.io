@@ -84,7 +84,7 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=dUviGEIAAAAJ&hl=en"
-    - label: "Orchid"
+    - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-3331-7859"
 
